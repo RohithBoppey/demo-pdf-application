@@ -58,32 +58,17 @@ $ node server.js
 
 # Screenshots of this project
 
-![Page where a user can upload his PDF
-](https://user-images.githubusercontent.com/73538974/219008133-bdb09d57-3f51-4df6-a844-b040966c03ec.png)
+Page where a user can upload his PDF
+![Page where a user can upload his PDF](https://user-images.githubusercontent.com/73538974/219008133-bdb09d57-3f51-4df6-a844-b040966c03ec.png)
 
 User can see the PDF uploaded and then finally verify and submit
-![image](https://user-images.githubusercontent.com/73538974/219008786-27dd69cb-e926-4488-8c2b-279c5c622eef.png)
+![User can see the PDF uploaded and then finally verify and submit](https://user-images.githubusercontent.com/73538974/219008786-27dd69cb-e926-4488-8c2b-279c5c622eef.png)
 
+On the Admin Side, Admin can view the Pending PDFs like
+![On the Admin Side, Admin can view the Pending PDFs like](https://user-images.githubusercontent.com/73538974/219010064-03838df0-1190-4d22-b8fd-c715f3f6a66b.png)
 
-After signing in user can go to account route and make request to token-protected API endpoint
-![After signing in user can go to account route](http://i.imgur.com/FzLB51u.png)
+Admin can finally review the PDF file and submit it
+![Admin can finally review the PDF file and submit it](https://user-images.githubusercontent.com/73538974/219010188-7afbf42f-417a-4db0-b623-9e3d88691db0.png)
 
-## Standard
+You can Email Me: rohithboppey1298@gmail.com (welcome, say hi)
 
-[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
-
-## BUGs or comments
-
-[Create new Issues](https://github.com/amazingandyyy/mern/issues) (preferred)
-
-Email Me: amazingandyyy@gmail.com (welcome, say hi)
-
-## Author
-[Amazingandyyy](https://amazingandyyy.com)
-
-I recently launch my monthly mentorship program, feel free to reach out and see what we can grow together:
-
-<a href="https://mentorcruise.com/mentor/andychen/"> <img src="https://cdn.mentorcruise.com/img/banner/fire-sm.svg" width="240" alt="MentorCruise"> </a>
-
-### License
-[MIT](https://github.com/amazingandyyy/mern/blob/master/LICENSE)
