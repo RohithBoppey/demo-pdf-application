@@ -58,11 +58,12 @@ $ node server.js
 
 # Screenshots of this project
 
-User visit public and Home page
-![User visit public and Home page](http://i.imgur.com/ORCGHHY.png)
+![Page where a user can upload his PDF
+](https://user-images.githubusercontent.com/73538974/219008133-bdb09d57-3f51-4df6-a844-b040966c03ec.png)
 
-User can sign in or sign up
-![User can sign in or sign up](http://i.imgur.com/rrmbU5I.png)
+User can see the PDF uploaded and then finally verify and submit
+![image](https://user-images.githubusercontent.com/73538974/219008786-27dd69cb-e926-4488-8c2b-279c5c622eef.png)
+
 
 After signing in user can go to account route and make request to token-protected API endpoint
 ![After signing in user can go to account route](http://i.imgur.com/FzLB51u.png)
