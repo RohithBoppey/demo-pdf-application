@@ -77,7 +77,7 @@ function App() {
 			const response = await axios.post(URL, formData, config);
 			console.log(response);
 			window.alert("Submitted successfully")
-			// window.location.reload();
+			window.location.reload();
 		}
 	}
 
